@@ -1,0 +1,13 @@
+ID_Fornecedor;Nome_Fornecedor;Contato;Endereço;Telefone
+301;Fornecedor A;contatoA@fornecedor.com;Rua A, 123;11-1234-5678
+302;Fornecedor B;contatoB@fornecedor.com;Rua B, 456;11-2345-6789
+303;Fornecedor C;contatoC@fornecedor.com;Rua C, 789;11-3456-7890
+304;Fornecedor D;;Rua D, 101;11-4567-8901
+305;Fornecedor E;contatoE@fornecedor.com;;11-5678-9012
+306;Fornecedor F;contatoF@fornecedor.com;Rua F, 202;
+307;Fornecedor G;;Rua G, 303;11-6789-0123
+308;Fornecedor H;contatoH@fornecedor.com;;11-7890-1234
+309;Fornecedor I;contatoI@fornecedor.com;Rua I, 404;11-8901-2345
+310;Fornecedor J;contatoJ@fornecedor.com;Rua J, 505;
+311;Fornecedor K;contatoK@fornecedor.com;Rua K, 606;11-9012-3456
+312;Fornecedor L;;Rua L, 707;11-0123-4567

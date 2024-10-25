@@ -1,0 +1,13 @@
+ID_Representante;Nome_Representante;ID_Fornecedor;Email;Telefone;Região
+401;Representante A;301;repA@fornecedor.com;11-1234-5678;Sudeste
+402;Representante B;302;repB@fornecedor.com;11-2345-6789;Sul
+403;Representante C;303;;11-3456-7890;Centro-Oeste
+404;Representante D;304;repD@fornecedor.com;;Nordeste
+405;Representante E;305;repE@fornecedor.com;11-5678-9012;
+406;Representante F;306;repF@fornecedor.com;11-6789-0123;Norte
+407;Representante G;307;;11-7890-1234;Sul
+408;Representante H;308;repH@fornecedor.com;11-8901-2345;Sudeste
+409;Representante I;309;;11-9012-3456;Centro-Oeste
+410;Representante J;310;repJ@fornecedor.com;;Nordeste
+411;Representante K;311;repK@fornecedor.com;11-0123-4567;Norte
+412;Representante L;312;repL@fornecedor.com;11-1234-5678;Sul
